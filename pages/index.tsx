@@ -451,7 +451,7 @@ export const Home = (props: PageProps) => {
                                             <LazyLoadImage src="assets/images/teams/CD.png" alt="Team member"/>
                                             <div>
                                                 <span>Creative director</span>
-                                                <h4>KHANH</h4>
+                                                <h4>Bella</h4>
                                                 <ul>
                                                     <li>10 years of experience in digital marketing, advertising and
                                                         brand communication at global agencies.
