@@ -16,7 +16,6 @@ declare var window: any
 export const Home = (props: PageProps) => {
     const {xstore} = props;
     const partners: any[] = [
-        "assets/images/partners/1.png",
         "assets/images/partners/2.png",
         "assets/images/partners/3.png",
         "assets/images/partners/4.png",
